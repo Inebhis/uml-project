@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T10:10:06.968Z" agent="5.0 (X11)" etag="QoUqs2ZfNlfIa0viuREY" version="13.7.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-09T10:27:45.460Z" agent="5.0 (X11)" etag="jKe8w5m7fXOkM4vdqmmr" version="13.7.9" type="github" pages="3">
   <diagram id="qxKtfwVfe7dL044rw6AW" name="Diagramme d&#39;utilisation">
     <mxGraphModel dx="1181" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
@@ -386,13 +386,13 @@
         <mxCell id="mKPldK9T4VyQ4orUg8VH-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
           <mxGeometry x="620" y="80" width="10" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="mKPldK9T4VyQ4orUg8VH-5" value="SIte" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
+        <mxCell id="mKPldK9T4VyQ4orUg8VH-5" value="Site" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
           <mxGeometry x="345" y="40" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mKPldK9T4VyQ4orUg8VH-6" value="Meurtrier" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
           <mxGeometry x="465" y="40" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mKPldK9T4VyQ4orUg8VH-7" value="Bitcoin" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
+        <mxCell id="mKPldK9T4VyQ4orUg8VH-7" value="Paiement" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dvx409sYST6VDi8qkyrC-1">
           <mxGeometry x="585" y="40" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mKPldK9T4VyQ4orUg8VH-8" value="Se connecte" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.5;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dvx409sYST6VDi8qkyrC-1" target="mKPldK9T4VyQ4orUg8VH-0">
@@ -427,7 +427,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKPldK9T4VyQ4orUg8VH-12" value="Se connecte" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.5;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dvx409sYST6VDi8qkyrC-1">
+        <mxCell id="mKPldK9T4VyQ4orUg8VH-12" value="Demande un profil" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.5;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dvx409sYST6VDi8qkyrC-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="240" as="sourcePoint" />
             <mxPoint x="380" y="240.88" as="targetPoint" />
